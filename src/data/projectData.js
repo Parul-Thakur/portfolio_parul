@@ -59,7 +59,7 @@ const projects = [
       "/AIPlannerImages/AiPlanner1.png",
       "/AIPlannerImages/AiPlanner2.png",
       "/AIPlannerImages/AiPlanner3.png",
-      "/AIPlannerImagesAiPlanner4.png",
+      "/AIPlannerImages/AiPlanner4.png",
       "/AIPlannerImages/AiPlanner5.png",
     ],
     overview:
