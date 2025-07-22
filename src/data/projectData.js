@@ -93,7 +93,7 @@ const projects = [
         icon: <SiGoogledataproc className="text-yellow-300" />,
       },
     ],
-    github: "https://github.com/Parul-Thakur/ai-trip-planner-web",
+    github: "https://github.com/Parul-Thakur/ai-trip-planner-web-main",
     liveDemo:
       "https://ai-trip-planner-web-mggk-3ufxy4t18-parul-thakurs-projects.vercel.app/",
   },
@@ -271,7 +271,7 @@ const projects = [
         icon: <SiResend className="text-white-300" />,
       },
     ],
-    github: "https://github.com/Parul-Thakur/foodie-cart",
+    github: "https://github.com/Parul-Thakur/foodie-cart-main",
     liveDemo: "https://foodie-cart-eiu9.vercel.app",
   },
    {
