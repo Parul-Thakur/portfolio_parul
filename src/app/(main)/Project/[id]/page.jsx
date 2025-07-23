@@ -124,7 +124,7 @@ export default  function ProjectDetailPage({ params }) {
         </motion.div>
       </section>
       {/* =================================================TOOLS========================================== */}
-      <section className="bg-black dark:bg-gray-900 py-12 px-6 rounded-lg mt-12">
+      <section className="bg-black  py-12 px-6 rounded-lg mt-12">
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-8 text-gray-100">
           Tools Used
         </h2>
