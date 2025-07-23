@@ -54,7 +54,7 @@ export default function ProjectsFramerSlideshow() {
   };
 
   return (
-    <section id="about" className="relative min-h-screen flex flex-col items-center justify-center px-6  bg-black text-white">
+    <section id="project" className="relative min-h-screen flex flex-col items-center justify-center px-6  bg-black text-white">
       <h1 className="text-5xl font-bold text-center mb-12">My Projects</h1>
 
       {/* Outer wrapper - fixed width and overflow hidden */}
