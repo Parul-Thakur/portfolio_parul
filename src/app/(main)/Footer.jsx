@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa";
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-white py-8 ">
+    <footer className="bg-black text-white py-8 ">
       <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
         {/* Left */}
         <p className="text-sm">
